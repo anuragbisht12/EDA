@@ -1,2 +1,2 @@
 # EDA
-for Exxploratory Data Analysis
+for Exploratory Data Analysis
